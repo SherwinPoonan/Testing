@@ -1,0 +1,4 @@
+﻿  FirstApp_2.cpp
+c:\dev\c++\console\firstapp_2\firstapp_2\firstapp_2.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\dev\c++\console\firstapp_2\firstapp_2\firstapp_2.cpp(64): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FirstApp_2.vcxproj -> C:\Dev\C++\Console\FirstApp_2\Debug\FirstApp_2.exe
